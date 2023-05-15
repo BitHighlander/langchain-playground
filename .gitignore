@@ -1,4 +1,4 @@
 .env
-
+data
 # Project exclude paths
 /node_modules/
